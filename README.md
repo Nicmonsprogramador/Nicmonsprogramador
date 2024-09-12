@@ -1,16 +1,26 @@
-## Hi there 👋
+Hola, soy [Nicolas Monsalve Gomez] 👋
+Acerca de mí
+Soy un desarrollador Full Stack con experiencia en la construcción de aplicaciones web completas desde el frontend hasta el backend. Mi pasión es crear soluciones innovadoras que mejoren la experiencia del usuario y optimicen el rendimiento de las aplicaciones. Me encanta trabajar en proyectos desafiantes que me permitan aprender y crecer profesionalmente.
 
-<!--
-**Nicmonsprogramador/Nicmonsprogramador** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 Habilidades
+Frontend:
+Lenguajes: HTML, CSS, JavaScript
+Frameworks/Bibliotecas: React, Angular, , SASS
+Herramientas: Webpack, Babel, Bootstrap, Tailwind CSS
+Backend:
+Lenguajes: Node.js, Python, Java, 
+Frameworks: Express.js, Django, Spring Boot, 
+Bases de Datos: MongoDB, MySQL, PostgreSQL, Firebase
+Control de Versiones: Git, GitHub, GitLab
+CI/CD: Jenkins, Travis CI, GitHub Actions
+Contenedores: Docker, Kubernetes
+Servicios en la Nube: AWS, Azure, Google Cloud Platform
+📚 Actualmente Aprendiendo
+Estoy profundizando mis conocimientos en [react , Angular ,Php ,Node , bases de datos].
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+📫 Conéctate conmigo
+LinkedIn: [https://www.linkedin.com/in/nicolas-monsalve23/]
+Twitter: [https://x.com/NICOLAS13869215]
+Correo Electrónico: [nmonsalve28@misena.edu.co]
+Website/Blog: [Tu sitio web o blog, si tienes uno]
+¡Gracias por visitar mi perfil! Si tienes alguna pregunta, deseas colaborar en un proyecto o simplemente quieres charlar sobre tecnología, no dudes en ponerte en contacto. 🚀
