@@ -4,7 +4,7 @@ Soy un desarrollador Full Stack con experiencia en la construcción de aplicacio
 
 🚀 Habilidades
 Frontend:
-Lenguajes: HTML, CSS, JavaScript
+Lenguajes: HTML, CSS, JavaScript, TypeScript
 Frameworks/Bibliotecas: React, Angular, , SASS
 Herramientas: Webpack, Babel, Bootstrap, Tailwind CSS
 Backend:
